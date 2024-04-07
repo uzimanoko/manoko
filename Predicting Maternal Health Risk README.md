@@ -1,4 +1,4 @@
-# Predicting_Maternal_Health_Risk-Group work
+# Predicting_Maternal_Health_Risk
 # INTRODUCTION
 
 Pregnancy is a time of great change for a woman's body, marked by both significant physical and
