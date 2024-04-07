@@ -1,5 +1,6 @@
 # Predicting_Maternal_Health_Risk-Group work
-INTRODUCTION
+# INTRODUCTION
+
 Pregnancy is a time of great change for a woman's body, marked by both significant physical and
 emotional changes. According to the WHO, it was estimated that almost 300,000 women died
 from pregnancy-related causes in 2017 with approximately 830 women dying from preventable
@@ -11,17 +12,18 @@ risk. A decision tree model was used to analyze the data and identify the most i
 factors associated with maternal risk levels, with the primary aim of identifying significant
 factors that effectively predict maternal health risk levels during pregnancy.
 
-AIM
+# AIM
+
 To identify and explore the key factors that predict health maternal risk levels using the
 Maternal Health Risk Dataset with a focus on a Decision Tree model.
 
-MATERIALS
+# MATERIALS
 We used the dataset of Maternal Health Risk obtained from the UC Irvine Machine Learning
 Repository website. This dataset consists of 1013 participants and the features that were
 explored include; age, diastolic blood pressure, systolic blood pressure, blood sugar, body
 temperature, and heart rate with our target variable, “risk level”.
 
-RESULTS AND DISCUSSION
+# RESULTS AND DISCUSSION
 The decision tree model offers detailed risk level predictions, classifying pregnant women into
 three distinct categories: low, mid, and high risk as seen in figure 1. These predictions are based
 on specific thresholds applied to critical maternal health indicators. After running the decision
@@ -52,7 +54,7 @@ model aids in identifying pregnant women with high systolic blood pressure, incr
 sugar levels, high body temperature, or advanced age as being at a high risk of experiencing
 maternal health complications during pregnancy
 
-IMPLICATIONS
+# IMPLICATIONS
 The success of the decision tree model development and performance bring about the
 significant implications for healthcare, research, and public health. By taking in account
 features such as blood sugar, systolic blood pressure, body temperature, heart rate, and age, the
@@ -69,7 +71,7 @@ complication, thus aiding for the development of educational materials for them,
 can be aware of the risk factors for maternal health complications and take steps to reduce their
 risk.
 
-CONCLUSION
+# CONCLUSION
 The analysis aimed at identifying key factors key factors that predict health maternal risk levels.
 Overall, the decision tree model provides a valuable tool for assessing maternal health risk
 during pregnancy, considering factors like blood sugar, blood pressure, body temperature, age,
